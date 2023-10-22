@@ -15,5 +15,6 @@ Examples:
 | --- | --- | --- |
 | Group | [ethcd](https://github.com/ethereumeg/ethcd) | `group:4da` |
 | Person | [ethcd](https://github.com/ethereumeg/ethcd) | `person:f30` |
-| Event Series | [ethevents](https://github.com/ethereumeg/ethevents-db) | `series:254` |
 | Event | [ethevents](https://github.com/ethereumeg/ethevents-db) | `event:8a0` |
+| Session (event) | [ethevents](https://github.com/ethereumeg/ethevents-db) | `session:88d` |
+| Series (event) | [ethevents](https://github.com/ethereumeg/ethevents-db) | `series:254` |
