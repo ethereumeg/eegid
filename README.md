@@ -2,8 +2,8 @@
 > Universal identifier in the Ethereum ecosystem
 
 The identifier is composed of two parts separated by a colon (`:`):
-1. collection - `group`, `event`, etc.
-2. random hexadecimal number - `58a`, `f30`, etc.
+1. dataset - `group`, `event`, etc. (see bellow)
+2. random hexadecimal number - `58a`, `f30`, etc. (usually 3-4 characters)
 
 Examples:
 - `event:a8f`
